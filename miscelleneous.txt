@@ -1,0 +1,26 @@
+
+check if python installed
+--------------------------
+python3 --version
+
+MySQL
+--------
+sudo start MySQL
+mysql -u root -p
+
+to install vosk
+--------------
+pip install vosk
+
+java pom file
+------------
+ <!-- Java Sound for Microphone Input -->
+        <dependency>
+            <groupId>javax.sound</groupId>
+            <artifactId>javax.sound.sampled</artifactId>
+            <version>1.0.3</version>
+        </dependency>
+
+
+
+mvn javafx:run

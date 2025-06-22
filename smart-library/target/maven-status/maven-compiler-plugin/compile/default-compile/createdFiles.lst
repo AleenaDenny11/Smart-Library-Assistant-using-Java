@@ -1,0 +1,6 @@
+com\library\MainApp.class
+com\library\BorrowRecord.class
+com\library\Database.class
+com\library\TestDB.class
+com\library\Book.class
+com\library\VoiceRecognizer.class
